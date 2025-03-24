@@ -12,7 +12,8 @@ android {
         targetSdk 34
         versionCode 1
         versionName "1.0"
-        namespace "slowmac.autobackgroundremover"
+        applicationId "com.slowmac.autobackgroundremover"
+        namespace "com.slowmac.autobackgroundremover"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
